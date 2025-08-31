@@ -29,7 +29,9 @@ Update/Delete catches (only by their owner).
 
 🔄 Dynamic DOM rendering
 
-Fully client-side navigation without page reloads.
+Fully client-side navigation without page reloads. Separate views for Home, Login, and Register.
 
-Separate views for Home, Login, and Register.
+📌 IMPORTANT 📌
+
+To start the project you have to start the server with the command in the terminal- node server.js, and open it with live server.
 
