@@ -33,5 +33,5 @@ Fully client-side navigation without page reloads. Separate views for Home, Logi
 
 📌 IMPORTANT 📌
 
-To start the project you have to start the server with the command in the terminal- node server.js, and open it with live server.
+To start the project you have to start the server with the command in the terminal- node server.js, and you have to type another command in the terminal - node start!
 
